@@ -1,0 +1,4 @@
+com\nttdata\nttdatacenters_saludo_config_psp\App.class
+META-INF\spring-configuration-metadata.json
+com\nttdata\nttdatacenters_saludo_config_psp\SaludoAutoconfigure.class
+com\nttdata\nttdatacenters_saludo_config_psp\SaludoProperties.class
